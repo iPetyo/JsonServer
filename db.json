@@ -328,9 +328,13 @@
               "2944954a-220d-4fb1-af6c-e7c6f361ffcb": {
                 "id": "2944954a-220d-4fb1-af6c-e7c6f361ffcb",
                 "name": "Explanation Method",
-                "title": "Explanation Method",
-                "description": "",
-                "properties": {},
+                "title": "Nombre1",
+                "description": "descripcion1",
+                "properties": {
+                  "clave1": "valor1",
+                  "clave2": "valor2",
+                  "clave3": "valor3"
+                },
                 "display": {
                   "x": 228,
                   "y": -120
@@ -376,7 +380,7 @@
       },
       "path": "b3projects-99c6045b-d438-4682-815d-8497b20ac824",
       "id": 9,
-      "date": "2022-5-24 10:6:30"
+      "date": "2022-5-25 1:11:58"
     },
     {
       "name": "proyecto 1.7",
@@ -887,7 +891,7 @@
             "version": "0.1.0",
             "scope": "tree",
             "id": "0d3d1bb8-7ead-4f3c-9e5c-c6dece5fdfbc",
-            "title": "Explanation Experience",
+            "title": "23",
             "description": "",
             "root": null,
             "properties": {},
@@ -904,7 +908,7 @@
         "custom_nodes": []
       },
       "path": "b3projects-44c82335-a631-4766-b350-b3f06568b202",
-      "date": "2022-5-5 17:43:4",
+      "date": "2022-5-25 13:33:22",
       "id": 23
     },
     {
