@@ -52,7 +52,4 @@ Now if you go to
 ```
 
 More information
-```
 [https://github.com/typicode/json-server](https://github.com/typicode/json-server) 
-
-```
