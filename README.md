@@ -1,6 +1,6 @@
 # JSON Server 
 
-Getting started
+Install JSON Server
 
 
 ```
